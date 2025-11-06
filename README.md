@@ -65,7 +65,9 @@ Sample Output:
 
 1. Add Product
 2. View Products
-3. Exit
+3. Update
+4. Delete
+5. Exit
 Choose: 1
 Enter product name: Keyboard
 Enter price: 750
